@@ -1,0 +1,10 @@
+.container{
+    background-color: var(--bacground-color-alt);
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    color: var( --text-color);
+}
+h1{
+    margin-right: 10px;
+}
